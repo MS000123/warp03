@@ -9,5 +9,7 @@ Opis w paru punktach o sobie w tym: ogólnych informacji, akutalnych umiejętno�
 * **Z przeszłości**: Proste skrypty w batchu, pythonie
 * **Nowo nauczone:** Podstawowe umiejętności, które wyniosłem z aktualnych studiów (poziom początkujący - programowanie w C# i obsługiwanie się / praca z GIT)
 ##
-### 3. Oczekiwania
-* 
+### 3. Oczekiwania i Cele
+* Umiejętność płynnego programowania
+* Ogólne obeznanie w informatyce i całej branży
+* Znalezienie opdowiedniej pracy
